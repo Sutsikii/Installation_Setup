@@ -1,4 +1,4 @@
-Installation Setup
+# Installation Setup
 
 Logiciel utilisés : 
 -Visual Studio Code
